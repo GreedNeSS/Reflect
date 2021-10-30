@@ -1,0 +1,19 @@
+{
+	"name": "reflect",
+	"version": "1.0.0",
+	"description": "Reflect API",
+	"main": "./JavaScript/1-apply.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GreedNeSS/Reflect.git"
+	},
+	"author": "GreedNeSS",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GreedNeSS/Reflect/issues"
+	},
+	"homepage": "https://github.com/GreedNeSS/Reflect#readme"
+}
